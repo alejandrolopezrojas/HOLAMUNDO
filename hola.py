@@ -32,3 +32,6 @@ se supone que ya estoy configurando cada
 vez mas el git hub, es que la verdad antes de
  terminar las clases de python prefiero poder guardar todo esto
  """
+print("""alfiiiiiiiinnnn, logre configurar
+       las cosas para que cuando haga un cambi
+      o aca, se guarde automaticamente en github""")
