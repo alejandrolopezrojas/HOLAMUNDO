@@ -25,5 +25,13 @@ print(type(vfloat_a_bool))
 print(type(vint_a_str))
 #como podemos ver ahora estas funciones han cambiado de tipo
 
+"""esto es un experimento rapido,
+que pasaria si queremos ver de que
+tipo es lo que acabamos de hacer,
+un print con variables y funciones adentro """
+
+print(type(print("esto es una prueba", edad)))
+
+
 
 
