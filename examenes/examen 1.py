@@ -1,4 +1,4 @@
-#Crea variables con: tu edad tu altura tu nombre Luego imprime una frase así: Hola, me llamo ___, tengo ___ años y mido ___ metros
+#punto 1
 
 edad= 16
 nombre= "Alejandro"
