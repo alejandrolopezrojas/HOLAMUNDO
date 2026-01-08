@@ -1,0 +1,29 @@
+#las variables se crean con un "=" y el valor que le queramos dar
+edad= 16
+nombre= "Alejandro"
+altura= 1.83
+#luego para imprimirlas se usa print
+print(edad)
+print(nombre)
+print(altura)
+"""tambien puedes escribirlas 
+juntas y con texto en una sola linea
+para esto hay que usar comas,,, entre cada cosa"""
+print("hola mi nombre es", nombre, "mi edad es", edad, "y mi altura es", altura)
+
+#podemos pasar una variable de un tipo a otra
+vint = 34
+vfloat = 2.34
+#revisamos que tipo de variable son=
+print(type(vint), type(vfloat))
+
+#ahora usando estas funciones las podemos cambiar
+
+vint_a_str = str(vint)
+vfloat_a_bool = bool(vfloat)
+print(type(vfloat_a_bool))
+print(type(vint_a_str))
+#como podemos ver ahora estas funciones han cambiado de tipo
+
+
+
