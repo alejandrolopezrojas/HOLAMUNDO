@@ -64,10 +64,9 @@ print("aaaab" != "aaaa")
 """si queremos comparar por tamaño o numero
 de caracteres tenemos que usar "len", 
 como en el ejemplo que habia hecho hace un rato"""
-"""v1 = str(input("v1= "))
+v1 = str(input("v1= "))
 v2 = str(input("v2= "))
 print((len(v1)>=len(v2)))
-"""
 
 
 
