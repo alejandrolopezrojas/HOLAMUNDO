@@ -1,1 +1,2 @@
-print("aaa")
+x = "hola"
+print(x)
