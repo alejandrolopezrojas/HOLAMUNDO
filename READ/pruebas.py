@@ -1,2 +1,2 @@
-x = "hola"
-print(x[0])
+xd = "0"
+print(bool(xd))
