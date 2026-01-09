@@ -41,7 +41,8 @@ nombre = input("ingrese su nombre= ")
 edad = int(input("ingrese su edad= "))
 clave = input("ingrese palabra clave= ")
 
-print(len(nombre) > 3 and edad >= 16 and len(clave)%2 == 0 and nombre != clave and)
+print(len(nombre) > 3 and edad >= 16 and len(clave)%2 == 0 and nombre != clave and nombre[0] < clave[0])
+
 
 
 

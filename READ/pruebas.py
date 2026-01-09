@@ -1,2 +1,2 @@
 x = "hola"
-print(x)
+print(x[0])
