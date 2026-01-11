@@ -44,7 +44,7 @@ print(pal[::-1])
 
 print(pal.capitalize())
 print(pal.upper())
-print(pal.isnumeric())
+print("12".isnumeric())
 print(pal.lower())
 print(pal.count("i"))
 print(pal[6].isupper())
