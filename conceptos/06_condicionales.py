@@ -37,13 +37,17 @@ else:
      print("la condición multiple es incorrecta") """
     
     #ELIF
-"""cuando queremos añadir uno o mas casos especiales a una condición"""
+"""cuando queremos añadir uno o mas casos especiales a una condición= pero para que se cumplan no se puede cumplir primero el if"""
      
 x_elif = int(input("ingrese un numero= "))
-if x_elif > 10 and x_elif <100 and  (x_elif % 2) == 0:
+if x_elif == 666:
+     print("hola demonio")
+elif x_elif > 600 and x_elif < 700:
+     print("estas cerca")
+elif x_elif > 10 and x_elif <100 and  (x_elif % 2) == 0:
      print("la condición multiple es correcta")
-
- 
+else:
+     print("la condición multiple es incorrecta")
     
     
     

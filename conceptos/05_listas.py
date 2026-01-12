@@ -30,7 +30,6 @@ print(persona_2)
 
 numeros.sort()#ordena los datos, y tambien puede por criterios
 print(numeros)
-
 comidas.sort()
 print(comidas)
 
